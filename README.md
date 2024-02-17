@@ -1,6 +1,6 @@
 # Real Estate Price Prediction
 
-This project showcases a real estate price prediction website that predicts home prices in Bangalore. Starting with the creation of a predictive model using scikit-learn and linear regression, leveraging the Bangalore home prices dataset from Kaggle, the series progresses to developing a Python Flask server to handle HTTP requests and deploying a user-friendly website using HTML, CSS, and JavaScript.
+This project showcases a real estate price prediction website that predicts home prices in Bangalore. Starting with the creation of a predictive model using scikit-learn and linear regression, leveraging the Bangalore home prices dataset from Kaggle, the project progresses to developing a Python Flask server to handle HTTP requests and deploying a user-friendly website using HTML, CSS, and JavaScript.
 
 **Key Highlights:**
 

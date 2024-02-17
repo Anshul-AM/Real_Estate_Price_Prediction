@@ -8,6 +8,9 @@ This project showcases a real estate price prediction website that predicts home
 
 
 **Technologies and Tools:** Utilizes Python, NumPy, and Pandas for data manipulation, Matplotlib for data visualization, scikit-learn for model development, Jupyter Notebook, Visual Studio Code, and PyCharm as IDEs, Python Flask for the HTTP server, and HTML/CSS/JavaScript for the user interface.
-This project serves as a practical demonstration of various data science concepts and technologies, providing a hands-on learning experience for aspiring data scientists and web developers.
+
+First, run the server.py file. Once the file is running, open the HTML file and try out different prediction scenarios.
 
 ![image](https://github.com/Anshul-AM/Real_Estate_Price_Prediction/assets/150291680/bbc5b321-d890-488e-b4bd-d9faab8b7001)
+
+

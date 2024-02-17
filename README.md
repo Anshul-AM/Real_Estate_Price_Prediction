@@ -4,7 +4,7 @@ This project showcases a real estate price prediction website that predicts home
 
 **Key Highlights:**
 
-**Data Science Concepts:** Covers data loading and cleaning, outlier detection and removal, feature engineering, dimensionality reduction, hyperparameter tuning using GridSearchCV, and k-fold cross-validation.
+**Data Science Concepts:** Data loading and cleaning, outlier detection and removal, feature engineering, dimensionality reduction, hyperparameter tuning using GridSearchCV, and k-fold cross-validation.
 
 
 **Technologies and Tools:** Utilizes Python, NumPy, and Pandas for data manipulation, Matplotlib for data visualization, scikit-learn for model development, Jupyter Notebook, Visual Studio Code, and PyCharm as IDEs, Python Flask for the HTTP server, and HTML/CSS/JavaScript for the user interface.
